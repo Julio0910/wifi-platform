@@ -1,0 +1,13 @@
+# Node / builds
+node_modules/
+dist/
+.build/
+.cache/
+
+# Env
+.env
+apps/*/.env
+
+# SO / Editor
+.DS_Store
+.vscode/
